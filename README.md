@@ -134,3 +134,5 @@ External links
 Official site
 The William Carter Company | Needham Historical Society
 Categories: Children's clothing brandsCompanies listed on the New York Stock ExchangeAmerican companies established in 1865Clothing companies established in 1865Clothing retailers of the United StatesClothing brands of the United StatesManufacturing companies based in Atlanta1865 establishments in Massachusetts.
+
+deployed link: https://gilded-pie-bfd654.netlify.app
